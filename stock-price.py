@@ -10,3 +10,9 @@ def print_hi():
 print_hi()
 
 print('this worked')
+
+def add_random():
+    x = 2 + 4
+    print(x)
+
+add_random():

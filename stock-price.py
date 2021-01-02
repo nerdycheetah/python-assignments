@@ -4,10 +4,9 @@ Given a list of stock prices throughout a week, return the highest profit that c
 [100, 200, 50, 250, 700]
 '''
 
-min_price
-max
-
 def print_hi():
     print('hi')
 
 print_hi()
+
+print('this worked')

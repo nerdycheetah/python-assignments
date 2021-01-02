@@ -6,3 +6,8 @@ Given a list of stock prices throughout a week, return the highest profit that c
 
 min_price
 max
+
+def print_hi():
+    print('hi')
+
+print_hi()
